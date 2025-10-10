@@ -9,7 +9,7 @@ brew "tree"
 
 cask "alfred"
 cask "alt-tab"
-cask "cusrsor"
+cask "cursor"
 cask "firefox"
 cask "font-dejavu-sans-mono-nerd-font"
 cask "font-source-han-code-jp"
